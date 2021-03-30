@@ -1,5 +1,6 @@
 # AI_From_Disaster_1912
-Prediction with Python
+Prediction with Python,
+This project uses prediction algorithms for the victims of the Titanic.
 
 ![image](https://user-images.githubusercontent.com/79792887/112758087-37bfac80-8ff5-11eb-95e9-47150f3712cd.png)
   
