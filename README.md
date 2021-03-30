@@ -1,6 +1,9 @@
 # AI_From_Disaster_1912
 Prediction with Python,
 This project uses prediction algorithms for the victims of the Titanic.
+Αt the beginning of the project a clearing of the data takes place,
+Then remove the columns that are considered not to help the artificial intelligence algorithm,
+Τo train the intelligent craft algorithm.in the test table displays the results of the algorithm and the data it had to predict.
 
 ![image](https://user-images.githubusercontent.com/79792887/112758087-37bfac80-8ff5-11eb-95e9-47150f3712cd.png)
   
